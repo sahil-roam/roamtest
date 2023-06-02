@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - roam-ios (0.1.12)
+  - roam_flutter (0.1.5):
+    - Flutter
+    - roam-ios (~> 0.1.12)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - roam_flutter (from `.symlinks/plugins/roam_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - roam-ios
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  roam_flutter:
+    :path: ".symlinks/plugins/roam_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  roam-ios: 982f1c74318e44bfde47aac0672407d4ac3328b4
+  roam_flutter: 98e5dd1afaf2785c2e6ccfbd3f96b214a3502bd4
+
+PODFILE CHECKSUM: fe5e039928e08cc3aa55730590fe5577354d32d2
+
+COCOAPODS: 1.11.3
